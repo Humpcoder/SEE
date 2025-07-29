@@ -1,0 +1,1 @@
+print("You are the smartest Geek around here")
